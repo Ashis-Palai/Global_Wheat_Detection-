@@ -1,1 +1,3 @@
 # Global_Wheat_Detection-
+
+From morning toast to evening sandwiches, wheat plays an essential role as a common grain in your daily eating habits. Getting accurate and extensive data about wheat heads is an important research program among scientists using image detection techniques. These images detect the density and size of wheat heads in different varieties. Farmers can use this data to assess health and maturity when making management decisions in their field. In this article, This project describes how to detect the number and sizes of wheat heads from outdoor images of wheat plants, including wheat datasets from around the globe using deep learning techniques.
